@@ -8,7 +8,7 @@ no signals, no hype - just structure, tension, and math that breathes.
 
 **focus:** crypto · fx · stocks  
 **stack:** python · Rust · wesm & c++ · react · tailwind · redis · vite  
-**obsession:** orderflow anomalies · volatility expansion · liquidity traps
+**obsession:** orderflow anomalies · math · liquidity traps
 
 📊 [borkiss.trade](https://borkiss.trade)  
 🧠 data over drama.
