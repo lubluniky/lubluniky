@@ -13,7 +13,7 @@ no signals, no hype - just structure, tension, and math that breathes.
 ---
 
 **18 y/o** | discretionary trader for **3 years** | coding since **14**  
-**rust · c · go · python · cuda · j · typescript**
+**rust · c · go · python · cuda · js · typescript**
 
 [![borkiss.trade](https://img.shields.io/badge/web-borkiss.trade-ff6b6b?style=flat-square)](https://borkiss.trade)
 [![data over drama](https://img.shields.io/badge/motto-data%20over%20drama-4ecdc4?style=flat-square)]()
@@ -64,7 +64,7 @@ AI-powered financial modeling and research. multi-agent orchestration for quant 
 ## **focus areas**
 
 - **crypto · fx · stocks** → multi-asset quantitative strategies
-- **stack:** rust · c · go · python · cuda · j · typescript · docker · kubernetes
+- **stack:** rust · c · go · python · cuda · js · typescript · docker · kubernetes
 - **obsession:** data · math · monster energy
 
 ---
