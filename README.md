@@ -10,13 +10,15 @@
 
 #### AI & Utilities  
 - **[ubot](https://github.com/lubluniky/ubot)** – Lightweight fork of OpenClaw.  
+- **[hedgehog](https://github.com/lubluniky/hedgehog)** – Remote AI Agent Orchestrator and council (or via cli): run Claude Code, Codex CLI, and Gemini CLI from a single interface via terminal or Telegram bot.
 - **[moltbot-hardener](https://github.com/lubluniky/moltbot-hardener)** – Tool that helps you set Moltbot secure on your Mac/VPS.  
 - **[awesome-agent-blueprints](https://github.com/lubluniky/awesome-agent-blueprints)** – Skills library for Claude Code.  
 - **[siphon_x](https://github.com/lubluniky/siphon_x)** – Self‑healing API harvester & TUI written in Rust.  
 
 #### Trading & Quant  
 - **[pingoblin](https://github.com/lubluniky/pingoblin)** – Polymarket latency monitoring TUI.  
-- **[rocket-rs](https://github.com/lubluniky/rocket-rs)** – High‑performance reinforcement learning library for Rust with PPO and A2C algorithms.  
+- **[rocket-rs](https://github.com/lubluniky/rocket-rs)** – High‑performance reinforcement learning library for Rust with PPO and A2C algorithms.
+- **[hedgehog](https://github.com/lubluniky/hedgehog)** – Remote AI Agent Orchestrator: run Claude Code, Codex CLI, and Gemini CLI from a single interface via terminal or Telegram bot.
 - **[priceaction](https://github.com/lubluniky/priceaction)** – Julia library (no description provided).  
 - **[polymarket-botkit](https://github.com/lubluniky/polymarket-botkit)** – Production‑ready Polymarket trading infrastructure monorepo with execution gateway and risk management.  
 - **[backtesting-kernel](https://github.com/lubluniky/backtesting-kernel)** – High‑performance backtesting engine with C kernel, Rust FFI and Python API (626M+ ticks/sec).  
