@@ -13,9 +13,11 @@
 - **[hedgehog](https://github.com/lubluniky/hedgehog)** – Remote AI Agent Orchestrator and council (or via cli): run Claude Code, Codex CLI, and Gemini CLI from a single interface via terminal or Telegram bot.
 - **[moltbot-hardener](https://github.com/lubluniky/moltbot-hardener)** – Tool that helps you set Moltbot secure on your Mac/VPS.  
 - **[awesome-agent-blueprints](https://github.com/lubluniky/awesome-agent-blueprints)** – Skills library for Claude Code.  
+- **[Claude code skill for Polymarket](https://github.com/lubluniky/polyclaude)** – Skills library for Claude Code. (PolyM edition)
 - **[siphon_x](https://github.com/lubluniky/siphon_x)** – Self‑healing API harvester & TUI written in Rust.  
 
 #### Trading & Quant  
+- **[KDE Poly](https://github.com/lubluniky/KDE)** – Polymarket Research.
 - **[pingoblin](https://github.com/lubluniky/pingoblin)** – Polymarket latency monitoring TUI.  
 - **[rocket-rs](https://github.com/lubluniky/rocket-rs)** – High‑performance reinforcement learning library for Rust with PPO and A2C algorithms.
 - **[hedgehog](https://github.com/lubluniky/hedgehog)** – Remote AI Agent Orchestrator: run Claude Code, Codex CLI, and Gemini CLI from a single interface via terminal or Telegram bot.
