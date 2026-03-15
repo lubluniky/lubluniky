@@ -1,10 +1,9 @@
-# borkiss  
+# borkiss
 
-### About Me  
-- **Age**: 19 years old  
-- **Experience**: discretionary trader for 4 years; coding since 14  
-- **Focus**: quantitative analyst building systems that read markets before people do. Fusing behavioral patterns, market microstructure, and AI‑driven analytics.  
-- **Stack**: Rust · C · Go · Python · CUDA · JavaScript · TypeScript  
+### about me
+- **age** — 19
+- **background** — discretionary trader for 4 years; coding since 14
+- **focus** — quantitative analyst building systems that read markets before people do; fusing behavioral patterns, market microstructure, and AI-driven analytics
+- **stack** — Rust · C · Go · Python · CUDA · TypeScript · JavaScript
 
-
-Co-Founder & CTO & CAO [HOLYPOLY](https://github.com/holypolyfoundation)
+co-founder & CTO & CAO @ [HOLYPOLY](https://github.com/holypolyfoundations)
