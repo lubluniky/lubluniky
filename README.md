@@ -8,7 +8,7 @@
 
 ### 🚀 current 
 **Co-Founder, CTO & CAO @ [HolyPoly](https://github.com/holypolyfoundation)** | [holypoly.ca](https://www.holypoly.ca/)
-*Backed by [Centurion](https://www.oncenturion.com/) & [DreamBound Labs](https://www.dreambound.org/)*
+*Also at [Centurion](https://www.oncenturion.com/) & [DreamBound Labs](https://www.dreambound.org/)*
 
 ### 🛠 tools & drops
 **[Slopster](https://slopster.xyz/)** — Free trials & SOTA tools
