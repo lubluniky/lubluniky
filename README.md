@@ -1,9 +1,14 @@
-# borkiss
+# ⚡ borkiss
 
-### about me
-- **age** — 19
-- **background** — discretionary trader for 4 years; coding since 14
-- **focus** — quantitative analyst building systems that read markets before people do; fusing behavioral patterns, market microstructure, and AI-driven analytics
-- **stack** — Rust · C · Go · Python · CUDA · TypeScript · JavaScript
+### 👨‍💻 about me
+- **Age** — 19
+- **Experience** — Discretionary trader (4+ years) · Coding since 14
+- **Focus** — AI Agents & Quantitative Analytics
+- **Stack** — `Rust` · `C/C++` · `CUDA/JAX` · `Go` · `Elixir` · `TS` · `Python`
 
-co-founder & CTO & CAO @ [HOLYPOLY](https://github.com/holypolyfoundations)
+### 🚀 current 
+**Co-Founder, CTO & CAO @ [HolyPoly](https://github.com/holypolyfoundation)** | [holypoly.ca](https://www.holypoly.ca/)
+*Backed by [Centurion](https://www.oncenturion.com/) & [DreamBound Labs](https://www.dreambound.org/)*
+
+### 🛠 tools & drops
+**[Slopster](https://slopster.xyz/)** — Free trials & SOTA tools
