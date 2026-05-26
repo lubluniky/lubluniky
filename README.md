@@ -9,6 +9,8 @@
 ### 🚀 current 
 **Co-Founder, CTO & CAO @ [HolyPoly](https://github.com/holypolyfoundation)** | [holypoly.ca](https://www.holypoly.ca/)
 
- *Hobby [Centurion](https://www.oncenturion.com/) & [DreamBound Labs](https://www.dreambound.org/) & [Slopster](https://slopster.xyz/)*
+
+ **Forward Deployment AI Accelerators** = [fdaa.dev](fdaa.dev) 
+
 
 
