@@ -6,11 +6,8 @@
 - **Focus** — AI Agents & Quantitative Analytics
 - **Stack** — `Rust` · `C/C++` · `CUDA/JAX` · `Go` · `Elixir` · `TS` · `Python`
 
-### 🚀 current 
-**Co-Founder, CTO & CAO @ [HolyPoly](https://github.com/holypolyfoundation)** | [holypoly.ca](https://www.holypoly.ca/)
-
-
- **Forward Deployment AI Accelerators** = [fdaa.dev](fdaa.dev) 
+### 🚀 current - MTS, AI Chef, geek @ somewhere(NDA).
+also **Forward Deployment AI Accelerators** = [fdaa.dev](fdaa.dev) 
 
 
 
