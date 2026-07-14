@@ -7,6 +7,6 @@
 - **Stack** — `Rust/Zig/C/C++` · `CUDA/JAX` · `Go/Elixir` · `TS+bun+Hono <3` · `Python (via Py03)`
 - **Agentic Stack**  — `Codex SDK w/ codex app server` · `LangChain/Graph/Smith` · `mastra-ai`
 
-## my opensource top contributions bellow
+## my opensource top contributions bellow 👇
 
 
